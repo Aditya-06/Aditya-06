@@ -21,6 +21,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" title="Django" **alt="Django" width="45" height="45"/>
+ 
 </div>
 
 
