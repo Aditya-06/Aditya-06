@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on something special
-- 🌱 I’m currently learning Microservices and GraphQL
+- 🌱 I’m currently learning System Design and GraphQL
 - 💬 Ask me about MERN Stack
 - 📫 How to reach me: adityaajmera0604@gmail.com
 
